@@ -26,8 +26,7 @@ while(*p != 85) {
     p++;
 }
 
-printf("Total: %d", total);
-printf("arr = %d", arr);
+printf("Total: %d\n", total);
 
 return 0;
 }
